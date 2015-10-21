@@ -1,5 +1,7 @@
 package net.viralpatel.qrcodes;
-
+/**
+ * creat by wangrui .
+ */
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
